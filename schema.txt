@@ -1,0 +1,12 @@
+table=>user
+	question
+	
+	answer
+answer ---
+-id
+user_id
+question_id
+body
+votes
+created_at 
+updated_at
